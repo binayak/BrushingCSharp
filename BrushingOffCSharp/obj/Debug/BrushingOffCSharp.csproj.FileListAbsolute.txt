@@ -1,0 +1,6 @@
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\bin\Debug\BrushingOffCSharp.exe.config
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\bin\Debug\BrushingOffCSharp.exe
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\bin\Debug\BrushingOffCSharp.pdb
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\obj\Debug\BrushingOffCSharp.csprojResolveAssemblyReference.cache
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\obj\Debug\BrushingOffCSharp.exe
+c:\users\bisilwal\documents\visual studio 2013\Projects\BrushingOffCSharp\BrushingOffCSharp\obj\Debug\BrushingOffCSharp.pdb
