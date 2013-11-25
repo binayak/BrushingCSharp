@@ -14,9 +14,17 @@ namespace BrushingOffCSharp
             //obj.ArraySetSortSolutionOne();
             //obj.ArraySetSortSolutionTwo();
             //obj.ArraySumsUpToASpecificValue();
-            obj.ArrayChooseNumberToSumUp();
+            //obj.ArrayChooseNumberToSumUp();
 
+            Lists myList = new Lists();
+            myList.AddToMyListThenPrint(25);
 
+            
+            
+            
+            
+            Console.WriteLine("Press enter to exit!!");
+            Console.ReadLine();
         }
     }
 }
