@@ -29,6 +29,9 @@ namespace BrushingOffCSharp
             //myList.SoringList();
 
 
+            HashTables hash = new HashTables();
+            hash.SetMyHashTable();
+
 
 
             Console.WriteLine();
