@@ -171,6 +171,29 @@ namespace BrushingOffCSharp
 
         }
 
+        public void ArrayReverseWithAForLoop()
+        {
+            int[] First = { 6, 5, 8, 3, 9, 2 };
+
+            for (int i = 0; i < First.Length; i++ )
+                Console.WriteLine(First[i]);
+            int[] temp = new int[6];
+            int k = 0;
+            int len = First.Length;
+            for (int j = len-1; j >=0; j--)
+            {
+
+                temp[k] = First[j];
+                k = k + 1;
+            }
+
+            Console.WriteLine("******* AFTER REVERSAL ******");
+
+            for (int i = 0; i < First.Length; i++)
+                Console.WriteLine(temp[i]);
+
+        }
+
 
     }
 }
