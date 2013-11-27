@@ -28,7 +28,9 @@ namespace BrushingOffCSharp
             PrintMyHashTable();
             AddingKeysAndValuesToArrayLists();
             CountMyHashTable();
+            IterateThroughTheHashTableUsingDictionaryEntry();
             ClearMyHashTable();
+            
         }
 
         public void ClearMyHashTable ()
@@ -38,7 +40,18 @@ namespace BrushingOffCSharp
             PrintMyHashTable();
         }
 
+        public void IterateThroughTheHashTableUsingDictionaryEntry()
+        {
+            foreach (DictionaryEntry de in myHash)
+            {
+                
+                //This is unboxing. We are taking objects from the hashtable and converting them in to appropriate data type.
+                string key = de.Key.ToString();
+                string value = de.Value.ToString();
 
+                Console.WriteLine("DictionaryEntry Usage " + key + " " + value);
+            }
+        }
         public void CountMyHashTable()
         {
             int count = myHash.Count;
@@ -49,12 +62,15 @@ namespace BrushingOffCSharp
         //Add test data in the hash table
         public Hashtable GetMyHashTable()
         {
+            
+            //This is known as boxing. Here we are adding values as objects even though they are string type. Unboxing is done when we cast objects to their types. 
             myHash.Add("100", "binayak");
             myHash.Add("101", "Karishma");
             myHash.Add("102", "zulie");
             myHash.Add("103", "Cat");
             myHash.Add("222", "666");
             myHash.Add("abc", "123");
+            
    
             return myHash;
         }

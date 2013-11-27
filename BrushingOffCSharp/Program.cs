@@ -17,6 +17,8 @@ namespace BrushingOffCSharp
             //obj.ArrayChooseNumberToSumUp();
             //obj.ArrayReverseWithAForLoop();
 
+            ArrayListWithEmployeeObjects arObj = new ArrayListWithEmployeeObjects();
+            arObj.KickOff();
 
             
             Lists myList = new Lists();
@@ -30,7 +32,10 @@ namespace BrushingOffCSharp
 
 
             HashTables hash = new HashTables();
-            hash.SetMyHashTable();
+            //hash.SetMyHashTable();
+
+            Dictionary dict = new Dictionary();
+            //dict.DictionaryParentFunction();
 
 
 
