@@ -8,5 +8,6 @@ namespace BrushingOffCSharp
 {
     class Stack
     {
+
     }
 }

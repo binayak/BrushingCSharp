@@ -43,7 +43,7 @@ namespace BrushingOffCSharp
             
 
             ArrayListWithEmployeeObjects arObj = new ArrayListWithEmployeeObjects();
-            arObj.KickOff();
+            //arObj.KickOff();
            
             Lists myList = new Lists();
             //myList.AddToMyListThenPrint(25);
@@ -60,6 +60,15 @@ namespace BrushingOffCSharp
 
             Dictionary dict = new Dictionary();
             //dict.DictionaryParentFunction();
+
+            DelegatesProgram delObj = new DelegatesProgram();
+            //delObj.AccessIt();
+
+            ProcessPerson person = new ProcessPerson();
+            //person.mainForThis();
+
+            Lambda lamb = new Lambda();
+            lamb.mainFunctionForLambdaClass();
 
             Console.WriteLine();
             Console.WriteLine();
