@@ -68,7 +68,10 @@ namespace BrushingOffCSharp
             //person.mainForThis();
 
             Lambda lamb = new Lambda();
-            lamb.mainFunctionForLambdaClass();
+            //lamb.mainFunctionForLambdaClass();
+
+
+            InterfacesProgram.mainForInterface();
 
             Console.WriteLine();
             Console.WriteLine();

@@ -44,6 +44,7 @@
     <Compile Include="ArrayListWithEmployeeObjects.cs" />
     <Compile Include="Arrays.cs" />
     <Compile Include="Delegates.cs" />
+    <Compile Include="InterfacesProgram.cs" />
     <Compile Include="Lambda.cs" />
     <Compile Include="ListExamples.cs" />
     <Compile Include="Dictionary.cs" />
