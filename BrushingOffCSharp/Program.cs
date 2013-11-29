@@ -71,7 +71,10 @@ namespace BrushingOffCSharp
             //lamb.mainFunctionForLambdaClass();
 
 
-            InterfacesProgram.mainForInterface();
+            //InterfacesProgram.mainForInterface();
+
+
+            ReferenceVsValueTypes.mainForReferenceAndValue();
 
             Console.WriteLine();
             Console.WriteLine();
