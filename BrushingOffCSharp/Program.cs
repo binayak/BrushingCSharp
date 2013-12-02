@@ -74,12 +74,17 @@ namespace BrushingOffCSharp
             //InterfacesProgram.mainForInterface();
 
 
-            ReferenceVsValueTypes.mainForReferenceAndValue();
+            //ReferenceVsValueTypes.mainForReferenceAndValue();
 
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("Press enter to exit!!");
-            Console.ReadLine();
+            StackOperations.mainForStack();
+
+            //BoxingAndUnboxing.mainForBoxUnbox();
+            
+
+            //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine("Press enter to exit!!");
+            //Console.ReadLine();
         }
     }
 }

@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="ArrayListWithEmployeeObjects.cs" />
     <Compile Include="Arrays.cs" />
+    <Compile Include="BoxingAndUnboxing.cs" />
     <Compile Include="Delegates.cs" />
     <Compile Include="InterfacesProgram.cs" />
     <Compile Include="Lambda.cs" />
