@@ -76,15 +76,20 @@ namespace BrushingOffCSharp
 
             //ReferenceVsValueTypes.mainForReferenceAndValue();
 
-            StackOperations.mainForStack();
+            //StackOperations.mainForStack();
 
             //BoxingAndUnboxing.mainForBoxUnbox();
-            
 
-            //Console.WriteLine();
-            //Console.WriteLine();
-            //Console.WriteLine("Press enter to exit!!");
-            //Console.ReadLine();
+            QueuePrograms qp = new QueuePrograms();
+            //qp.MainForQueue();
+
+            Generics gen = new Generics();
+            gen.mainForGenerics();
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Press enter to exit!!");
+            Console.ReadLine();
         }
     }
 }
