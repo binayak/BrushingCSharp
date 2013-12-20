@@ -84,7 +84,25 @@ namespace BrushingOffCSharp
             //qp.MainForQueue();
 
             Generics gen = new Generics();
-            gen.mainForGenerics();
+            //gen.mainForGenerics();
+
+            //TryCatchFinally.MainForTryCatch();
+
+            //JaggedArray.MainForJaggedArray();
+
+            SerializationDemo sel = new SerializationDemo();
+            //sel.MainForSerialization();
+
+            //Fibonacci.MainForFibonacci();
+
+            //Factorial.MainForFactorial();
+
+            //Palindrome.MainForPalindrome();
+
+            //PracticleRecursionExample.MainForPracticleRecursionExample();
+
+            KmpAlgorithm.MainForKMP();
+            
 
             Console.WriteLine();
             Console.WriteLine();

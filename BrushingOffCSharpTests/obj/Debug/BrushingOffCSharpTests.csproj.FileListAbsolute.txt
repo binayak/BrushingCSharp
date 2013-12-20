@@ -1,0 +1,5 @@
+C:\Users\bisilwal\Documents\Visual Studio 2013\Projects\BrushingCSharp\BrushingOffCSharpTests\bin\Debug\BrushingOffCSharpTests.dll
+C:\Users\bisilwal\Documents\Visual Studio 2013\Projects\BrushingCSharp\BrushingOffCSharpTests\bin\Debug\BrushingOffCSharpTests.pdb
+C:\Users\bisilwal\Documents\Visual Studio 2013\Projects\BrushingCSharp\BrushingOffCSharpTests\obj\Debug\BrushingOffCSharpTests.csprojResolveAssemblyReference.cache
+C:\Users\bisilwal\Documents\Visual Studio 2013\Projects\BrushingCSharp\BrushingOffCSharpTests\obj\Debug\BrushingOffCSharpTests.dll
+C:\Users\bisilwal\Documents\Visual Studio 2013\Projects\BrushingCSharp\BrushingOffCSharpTests\obj\Debug\BrushingOffCSharpTests.pdb

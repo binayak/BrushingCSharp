@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushingOffCSharp", "BrushingOffCSharp\BrushingOffCSharp.csproj", "{9F6B22CF-EF6F-4FEC-963A-28A78F3A412F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushingOffCSharpTests", "BrushingOffCSharpTests\BrushingOffCSharpTests.csproj", "{B2E2697B-F22B-4E57-93CE-60B7AFC799D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F6B22CF-EF6F-4FEC-963A-28A78F3A412F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6B22CF-EF6F-4FEC-963A-28A78F3A412F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6B22CF-EF6F-4FEC-963A-28A78F3A412F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E2697B-F22B-4E57-93CE-60B7AFC799D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E2697B-F22B-4E57-93CE-60B7AFC799D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E2697B-F22B-4E57-93CE-60B7AFC799D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E2697B-F22B-4E57-93CE-60B7AFC799D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
